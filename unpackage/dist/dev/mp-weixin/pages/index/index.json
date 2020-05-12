@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "goods-list": "/components/goods-list/goods-list"
+  }
+}

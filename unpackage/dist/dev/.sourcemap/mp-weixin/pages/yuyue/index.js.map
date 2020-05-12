@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:////Users/cisystem/Documents/HBuilderProjects/test_demo/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,4F;AACAA,UAAU,CAACC,cAAD,CAAV,C","file":"pages/yuyue/index.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/yuyue/index.vue'\ncreatePage(Page)"],"sourceRoot":""}
